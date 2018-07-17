@@ -1,0 +1,18 @@
+.div-title {
+    padding: 1em;
+    text-align: center;
+}
+
+.div-content {
+    padding: 1em;
+}
+
+.btn {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.4;
+    color: white;
+    background-color: cornflowerblue;
+    padding: 1em;
+    border-radius: 4px;
+}
